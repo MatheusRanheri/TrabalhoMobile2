@@ -1,1 +1,0 @@
-export const URLbase= 'http://192.168.0.236:3000';
